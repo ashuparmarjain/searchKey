@@ -1,4 +1,4 @@
-#Search key in an Array or an Object
+# Search key in an Array or an Object
 
 JS function to search an array ( simple array / array of object)  for a key 
 
